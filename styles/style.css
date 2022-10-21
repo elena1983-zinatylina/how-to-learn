@@ -166,7 +166,7 @@ list-style-type: none;
 width: 250px;
 }
 
-.table__haeding{
+.table__heading{
 padding: 0;
 font-weight:600;
 font-size: 24px;
@@ -261,7 +261,7 @@ margin-top: 0;
 z-index: 1;
 }
 
-.section-title_them_dark, .section-sutitleb_them_dark{
+.section-title_theme_dark, .section-sutitleb_theme_dark{
 color: white;
 z-index: 2;
 position: relative;
