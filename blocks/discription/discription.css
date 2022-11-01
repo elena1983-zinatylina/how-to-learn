@@ -1,0 +1,7 @@
+.discription {
+  justify-content: center;
+  display: flex;
+  margin: 100px 0 100px 0;
+  flex-direction: row;
+  align-items: center;
+}
